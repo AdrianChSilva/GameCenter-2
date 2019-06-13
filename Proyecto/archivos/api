@@ -1,0 +1,8 @@
+http://www.giantbomb.com/api/[RESOURCE-TYPE]/[RESOURCE-ID]/?api_key=d6fe19915fecef00bebafa1e0e31138646d1a4ae&format=[RESPONSE-DATA-FORMAT]&field_list=[COMMA-SEPARATED-LIST-OF-RESOURCE-FIELDS]
+
+
+http://www.giantbomb.com/api/games/[RESOURCE-ID]/?api_key=d6fe19915fecef00bebafa1e0e31138646d1a4ae&format=[RESPONSE-DATA-FORMAT]&field_list=[COMMA-SEPARATED-LIST-OF-RESOURCE-FIELDS]
+
+http://www.giantbomb.com/api/search/?api_key=d6fe19915fecef00bebafa1e0e31138646d1a4ae&format=json&query="super mario oddyssey"&resources=name
+
+https://www.giantbomb.com/api/search/?api_key=d6fe19915fecef00bebafa1e0e31138646d1a4ae&format=json&query="[nombre del juego]"&resources=game&field_list=deck,name,image,date_added
