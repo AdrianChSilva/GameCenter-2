@@ -1,2 +1,2 @@
 # GameCenter-2
-Proyecto totalmente acabado
+http://gamecenter.epizy.com/?i=1
