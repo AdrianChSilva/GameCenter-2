@@ -1,5 +1,6 @@
 # GameCenter-2
 http://gamecenter.epizy.com/
+
 Para acceder como administrador
 * Alias: **adminuno** contraseña: **adminuno** - *Administrador de nivel 1*
 * Alias: **admindos** contraseña: **admindos** - *Administrador de nivel 2*
