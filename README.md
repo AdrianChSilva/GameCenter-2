@@ -12,3 +12,6 @@ Cada usuario puede hacer y ver cosas distintas de la página.
 
 # Segundo proyecto en laravel
 https://github.com/AdrianChSilva/eCursos
+
+# Link a la presentación
+https://docs.google.com/presentation/d/1Cq9IRW3S_RCCwq06Cd5HrHlIP862n9oAp7FAYWnpkwg/edit?usp=sharing
